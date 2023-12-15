@@ -1,0 +1,44 @@
+.App{
+    background:#292E34; 
+    color:#FDFEFE;
+}
+
+
+
+.Active {
+    background: #FFD700;
+    border-color: #fff4b8;
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: solid;
+    color: black;
+    display:flex;
+}
+
+.dayNumer {
+    margin-right: 40px;
+}
+
+.nightTime {
+    margin-right: 40px;
+}
+.good {
+    background: #D3D3D3;
+    border-color: #E6E6E6;
+    border-radius:10px;
+    border-width: 10px;
+    border-style: solid;
+    color:black;
+}
+.bad {
+    background: #D30000;
+    opacity: 0.8;
+    border-color: #480000;
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.mechanics {
+    background:#4F6D43;
+    }
